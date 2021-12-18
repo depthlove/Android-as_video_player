@@ -1,0 +1,6 @@
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/CMakeFiles/rebuild_cache.dir
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/CMakeFiles/edit_cache.dir
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/CMakeFiles/av-engine.dir

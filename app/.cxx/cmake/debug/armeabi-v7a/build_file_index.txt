@@ -1,0 +1,2 @@
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt
+/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/src/main/cpp/CMakeLists.txt

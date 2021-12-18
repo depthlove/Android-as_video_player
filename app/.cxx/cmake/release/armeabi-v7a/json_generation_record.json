@@ -1,0 +1,191 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 18 min SDK version: armeabi-v7a",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json due to:",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a/build_command.txt, will remove stale json folder",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a\u0027",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a\u0027",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app\n-DCMAKE_CXX_FLAGS\u003d-O3 -fexceptions -fsigned-char -frtti -std\u003dc++11 -Wformat\n-DCMAKE_C_FLAGS\u003d-O3 -DGL_GLEXT_PROTOTYPES -DEGL_EGLEXT_PROTOTYPES -fsigned-char -I/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app -Wformat -mfpu\u003dneon -mfloat-abi\u003dsoftfp -frtti\n-DCMAKE_FIND_ROOT_PATH\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/prefab/armeabi-v7a/prefab\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/build/intermediates/cmake/release/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/build/intermediates/cmake/release/obj/armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d18\n-DANDROID_PLATFORM\u003dandroid-16\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_STL\u003dc++_static\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-DPATH_TO_MEDIACORE:STRING\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app\n-B/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app\",\n  \"buildDirectory\": \"/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-O3 -fexceptions -fsigned-char -frtti -std\\u003dc++11 -Wformat\",\n    \"-DCMAKE_C_FLAGS\\u003d-O3 -DGL_GLEXT_PROTOTYPES -DEGL_EGLEXT_PROTOTYPES -fsigned-char -I/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app -Wformat -mfpu\\u003dneon -mfloat-abi\\u003dsoftfp -frtti\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/.cxx/cmake/release/prefab/armeabi-v7a/prefab\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/build/intermediates/cmake/release/obj/armeabi-v7a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/build/intermediates/cmake/release/obj/armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d18\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DANDROID_TOOLCHAIN\\u003dclang\",\n    \"-DANDROID_ARM_NEON\\u003dTRUE\",\n    \"-DANDROID_STL\\u003dc++_static\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelWithDebInfo\",\n    \"-DPATH_TO_MEDIACORE:STRING\\u003d/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app\"\n  ]\n}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at /Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:356 (message):\\n  Invalid Android NDK revision (should be 12): 21.4.7075529.\\nCall Stack (most recent call first):\\n  /Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:356 (message):\n  Invalid Android NDK revision (should be 12): 21.4.7075529.\nCall Stack (most recent call first):\n  /Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\",\"type\":\"message\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring incomplete, errors occurred!",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "ERROR",
+    "message": "Configuration failed.",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/bin).\r\nCMake Error at /Users/suntongmian/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:356 (message):\n  Invalid Android NDK revision (should be 12): 21.4.7075529.\nCall Stack (most recent call first):\n  /Users/suntongmian/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n\n\nCMake Error: CMAKE_C_COMPILER not set, after EnableLanguage\nCMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage\nConfiguring incomplete, errors occurred!\n",
+    "file": "/Volumes/SamsungSSD970EVOPlusMedia/github/Android-as_video_player/app/CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]
